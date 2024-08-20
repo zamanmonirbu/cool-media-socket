@@ -1,4 +1,4 @@
-# Cool-media Backend
+# Cool-media Socket
 
 [Live Link](https://cool-media-client.vercel.app) | [Front-end Code](https://github.com/zamanmonirbu/cool-media-client) | [Back-end Code](https://github.com/zamanmonirbu/cool-media-backend) | [Socket Code](https://github.com/zamanmonirbu/cool-media-socket) | [Demo Video](https://youtu.be/BMk6zPf6T8U)
 
@@ -26,13 +26,13 @@ The Cool-media Backend provides real-time communication features for a social me
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/zamanmonirbu/cool-media-backend.git
+   git clone https://github.com/zamanmonirbu/cool-media-socket.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd cool-media-backend
+   cd cool-media-socket
    ```
 
 3. Install the dependencies:
