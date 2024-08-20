@@ -1,5 +1,7 @@
 # Cool-media Backend
 
+[Live Link](https://cool-media-client.vercel.app) | [Front-end Code](https://github.com/zamanmonirbu/cool-media-client) | [Back-end Code](https://github.com/zamanmonirbu/cool-media-backend) | [Socket Code](https://github.com/zamanmonirbu/cool-media-socket) | [Demo Video](https://youtu.be/BMk6zPf6T8U)
+
 ## Description
 
 The Cool-media Backend provides real-time communication features for a social media application using Socket.IO. It includes functionalities for user connections, messaging, love reactions, and comment notifications.
@@ -51,9 +53,15 @@ The server will run on port `8800`. Make sure that your client-side application 
 
 
 
-## Contact
+## Connect with Me
 
-For any inquiries or contributions, please contact [Md. Moniruzzaman](mailto:monir.cse6.bu@gmail.com).
-```
+- **Email:** [monir.cse6.bu@gmail.com](mailto:monir.cse6.bu@gmail.com)
+- **GitHub:** [![GitHub Icon](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zamanmonirbu)
+- **LinkedIn:** [![LinkedIn Icon](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdmoniruzzamanbu/)
+- **Codeforces:** [![Codeforces Icon](https://img.shields.io/badge/Codeforces-00FF00?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ZaMo)
+- **LeetCode:** [![LeetCode Icon](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/moniruzzamancse6/)
+- **Portfolio:** [![Portfolio Icon](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=codeforces&logoColor=white)](https://moniruzzamanbu.netlify.app/)
+- **Medium:** [![Medium Icon](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@zamanmonirbu)
 
-Feel free to customize this template according to your project's specific needs and add more details if necessary.
+## Contributing
+Contributions are welcome! Please feel free to submit a Pull Request.
